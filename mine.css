@@ -1,6 +1,6 @@
 body {
-    height: 100vh ;
-    background: linear-gradient(#DCB653, #E9DBB7, #E9DBB7);
+    height: calc(100vh - 34px);
+    background: no-repeat linear-gradient(#DCB653, #E9DBB7, #E9DBB7);
     margin: 0;
 }
 
@@ -13,19 +13,49 @@ body {
     font-family: 'Inter', sans-serif;
     padding-top: 0.1%;
     padding-bottom: 0.1%;
-}
-.background-pets {
-    background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-kawaii-cute-cats-footprint-card-paper-background_621619-197.jpg?w=2000");
-    background-repeat: repeat-x;
-    opacity: 0.2;
-    width: 100vw;
-    height: 718px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
-.coating {
-    background-color: rgba(255,255,255,0.9);
-    margin-top: 20px;
-    margin-bottom: 20px;
+.background-pets {
+    background-image: url("img/IMG_2511.PNG");
+    background-repeat: repeat-x;
+    width: 100vw;
+    height: 767px;
+    position: relative;
+}
+
+.footer {
+    background: linear-gradient(#EDE0BB, #ffffff);
+    width: 100vw;
+    height: 150px;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    height: 245px;
+    margin-right: 30px;
+}
+
+.cat {
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 25%;
+}
+
+.dog {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 100%;
+
+}
+
+.dog img {
+    border-radius: 50%;
+}
+
+.cat img {
+    border-radius: 50%;
 }
