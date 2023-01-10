@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce6f4573-b00e-4d54-b180-a0246208a2b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/IMG_2511.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок экрана 2023-01-09 в 00.06.14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок экрана 2023-01-09 в 00.06.35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок экрана 2023-01-09 в 00.07.42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок экрана 2023-01-09 в 00.08.36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок экрана 2023-01-09 в 00.08.59.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/mine.css" afterDir="false" />
@@ -32,19 +26,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K5VpOj42ikkOgoIaJ8ZgOIpjKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/Desktop/Study",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\FoodPets\img" />

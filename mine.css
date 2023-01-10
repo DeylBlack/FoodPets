@@ -1,6 +1,7 @@
 body {
     height: calc(100vh - 34px);
     background: no-repeat linear-gradient(#DCB653, #E9DBB7, #E9DBB7);
+    height: auto;
     margin: 0;
 }
 
@@ -26,7 +27,7 @@ body {
 }
 
 .footer {
-    background: linear-gradient(#EDE0BB, #ffffff);
+    background: linear-gradient(#efe2c0, #ffffff, #ffffff, #ffffff);
     width: 100vw;
     height: 150px;
 }
@@ -39,23 +40,58 @@ body {
 }
 
 .cat {
-    margin-left: 100px;
-    margin-top: 30px;
+    margin-left: 60px;
+    margin-top: 40px;
     width: 100%;
     border-radius: 25%;
+    font-family: 'Lexend', sans-serif;
+    font-weight: initial;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.cat .description {
+    display: flex;
+    flex-direction: column;
+}
+
+.dog .description {
+    display: flex;
+    flex-direction: column;
 }
 
 .dog {
-    margin-left: 30px;
-    margin-top: 30px;
+    margin-top: 40px;
     width: 100%;
+    font-weight: 600;
+    font-family: 'Lexend', sans-serif;
+    font-weight: initial;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
 
+.name {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 0;
+    margin-top: 20px;
 }
 
 .dog img {
     border-radius: 50%;
+    /*float: left;*/
+    margin-right: 20px;
 }
 
 .cat img {
     border-radius: 50%;
+    /*float: left;*/
+    margin-right: 20px;
+}
+
+.dog p, .cat p {
+    margin: 0;
 }
