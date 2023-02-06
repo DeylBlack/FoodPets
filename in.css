@@ -1,0 +1,61 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height: 100%;
+    margin: 0;
+}
+
+.background {
+    background: linear-gradient(2900deg, rgb(234, 18, 144), rgb(152, 0, 229), rgb(255, 100, 116)80%);
+    width: 100vw;
+    height: 47.5vh;
+    margin: 0;
+    padding-bottom: 30%;
+}
+
+.title {
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: baseline;
+    /*justify-content: center;*/
+    width: 100%;
+    cursor: default;
+}
+
+.title-left {
+    font-size: 6vw;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to bottom, rgba(241, 241, 241, 0.83), rgba(241, 241, 241, 0.4), rgba(241, 241, 241, 0));
+    margin-left: 50px;
+}
+
+.title-right {
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 6vw;
+    display: flex;
+    align-items: start;
+    color: rgba(241, 241, 241, 0.70);
+}
+
+.in {
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 4vw;
+    color: rgba(241, 241, 241, 0.70);
+    margin-left: 50px;
+}
+
+/*.content {*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: start;*/
+/*}*/
+
